@@ -1,6 +1,6 @@
 # Layout style guide
 
-Inspired by [Google's styleguide](https://github.com/google/styleguide/blob/gh-pages/docguide/style.md)
+Inspired by [Google's Markdown style guide](https://github.com/google/styleguide/blob/gh-pages/docguide/style.md)
 
 TOP uses Markdown for the layout and formatting of lesson and project files to get properly formatted HTML for the TOP website.
 
